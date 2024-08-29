@@ -1,2 +1,2 @@
 # Library-Management-System-in-C
-![Main](https://github.com/user-attachments/assets/1fb2e568-863e-4aea-9d64-b886d8be5ee8)
+![c_pro](https://github.com/user-attachments/assets/1a4fd64b-3912-4fe0-9c6a-df7034344712)
